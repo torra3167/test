@@ -8,7 +8,7 @@ theme: jekyll-theme-chirpy
 baseurl: ''
 
 # the HTML language tag › https://www.w3.org/International/questions/qa-choosing-language-tags
-lang: en-US
+lang: ko
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: Asia/Shanghai
@@ -33,10 +33,10 @@ github:
   username: torra3167             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: 하이하            # change to your twitter username
 
 social:
-  name: your_full_name                  # it will shows as the copyright owner in Footer
+  name: torra3167                  # it will shows as the copyright owner in Footer
   email: example@doamin.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
